@@ -1,0 +1,20 @@
+[
+    {
+        "branch_id": 1,
+        "destination_line": 15,
+        "file_path": "/home/zshiraz/part1-dev/inputs/input.c",
+        "source_line": 14
+    },
+    {
+        "branch_id": 2,
+        "destination_line": 18,
+        "file_path": "/home/zshiraz/part1-dev/inputs/input.c",
+        "source_line": 18
+    },
+    {
+        "branch_id": 3,
+        "destination_line": 19,
+        "file_path": "/home/zshiraz/part1-dev/inputs/input.c",
+        "source_line": 18
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "branch_id": 1,
+        "dest_lno": 13,
+        "filepath": "/Users/tscp/testdir/csc512-proj/part1-dev/inputs/input.c",
+        "src_lno": 12
+    },
+    {
+        "branch_id": 2,
+        "dest_lno": 13,
+        "filepath": "/Users/tscp/testdir/csc512-proj/part1-dev/inputs/input.c",
+        "src_lno": 13
+    },
+    {
+        "branch_id": 3,
+        "dest_lno": 14,
+        "filepath": "/Users/tscp/testdir/csc512-proj/part1-dev/inputs/input.c",
+        "src_lno": 13
+    }
+]
