@@ -17,7 +17,7 @@ Make sure you have the following installed on your system:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/zahrashiraz97/CSC512_part1_dev.git
 ```
 Navigate to the root directory of the repo and run the following commands to build the pass:
 
