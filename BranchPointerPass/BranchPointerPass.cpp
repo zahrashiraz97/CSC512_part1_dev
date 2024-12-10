@@ -1,6 +1,3 @@
-// CSC 512 Project - Branch and Function Pointer Analysis
-// Student: <Your Name>
-// GitHub: <Your GitHub Link>
 
 #include "llvm/IR/DebugInfoMetadata.h"
 #include "llvm/IR/Function.h"
